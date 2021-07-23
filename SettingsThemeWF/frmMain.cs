@@ -126,10 +126,10 @@ namespace SettingsThemeWF
                     case "English":
                         language_string = "en";
                         break;
-                    case "Russian":
+                    case "Русский":
                         language_string = "ru";
                         break;
-                    case "Ukrainian":
+                    case "Українська":
                         language_string = "uk";
                         break;
                     default:

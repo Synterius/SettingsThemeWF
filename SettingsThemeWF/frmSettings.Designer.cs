@@ -42,8 +42,8 @@ namespace SettingsThemeWF
             this.cmbLanguage.FormattingEnabled = true;
             this.cmbLanguage.Items.AddRange(new object[] {
             "English",
-            "Russian",
-            "Ukrainian"});
+            "Русский",
+            "Українська"});
             this.cmbLanguage.Location = new System.Drawing.Point(24, 86);
             this.cmbLanguage.Name = "cmbLanguage";
             this.cmbLanguage.Size = new System.Drawing.Size(121, 21);
