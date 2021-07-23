@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SettingsThemeWF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="language" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="colorBgd" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">38, 38, 38</Value>
+    </Setting>
+    <Setting Name="colorTxt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">196, 196, 196</Value>
+    </Setting>
+    <Setting Name="colorBgdOriginal" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="colorTxtOriginal" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlText</Value>
+    </Setting>
+    <Setting Name="colorSuccesGreen" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">126, 166, 75</Value>
+    </Setting>
+    <Setting Name="updateNeeded" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="darkTheme" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="colorMenuDark" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">62, 62, 64</Value>
+    </Setting>
+    <Setting Name="colorMenuOrigin" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="userName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
